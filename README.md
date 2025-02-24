@@ -1,3 +1,3 @@
 # studay
 This is My First Git Repositoty.
-Author - jaydip hadiyal 
+Author - Jaydip Hadiyal 
